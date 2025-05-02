@@ -8,7 +8,6 @@
 [![Made with Flask](https://img.shields.io/badge/Flask_Magic-000000?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/)
 [![Powered by OpenAI](https://img.shields.io/badge/%E2%9A%A1%EF%B8%8F_Powered_by-OpenAI-412991?style=for-the-badge)](https://openai.com)
 
-![AuthorChat in Action](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlqY3VtY2Z4b3R5d2NtY3R5bWQ3a2VlZHF0dWZ6dGJtbmV6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/your-demo-gif.gif) *(Replace with your actual demo media)*
 
 ## 🚀 What is the purpose of AuthorChat?
 - **📚 Study Buddy 2.0**: Discuss *Macbeth* with Shakespeare himself!
